@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "comp-color/component",
+    "comp-size/compact",
+    "comp-size/comfortable",
+    "comp-size/spacious",
+    "comp-size/dense"
+  ]
+}
